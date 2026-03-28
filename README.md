@@ -33,7 +33,7 @@ This internship reflects my effort to bridge **academic learning** with **real-w
 
 ### 🔗 Connect With Me
 - **GitHub:** [AnanyaMangaj](https://github.com/AnanyaMangaj)
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/)
+- **LinkedIn:** [www.linkedin.com/in/ananya-mangaj](https://www.linkedin.com/)
 
 ---
 
