@@ -1,260 +1,317 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Internship%20Tasks&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Science%20%26%20Machine%20Learning%20Journey%20%F0%9F%A4%96&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,16,24&height=220&section=header&text=Ananya%20Mangaj&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20Intern%20%7C%20VTU%20%C3%97%20Take%20It%20Smart%20Pvt%20Ltd&descAlignY=62&descSize=17"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Role-Data%20Science%20Intern-blueviolet?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Organization-Take%20It%20Smart%20Pvt%20Ltd-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/University-VTU-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Duration-7%20Weeks-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=github" />
-</p>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   🧠 Turning Raw Data into Real Decisions — 7 Weeks of Work  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;SQL+%7C+Python+%7C+Power+BI;EDA+%7C+Visualization+%7C+Dashboards;From+Raw+Data+to+Real+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 👤 About Me
+<img align="right" alt="Data Science GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-**Ananya Mangaj**
-**Data Science Intern**
-Visvesvaraya Technological University (VTU), Karnataka
+## 🙋‍♀️ Who Am I?
 
-I am a passionate **Data Science enthusiast** with hands-on experience in **Python, SQL, Machine Learning, Data Analysis, and Data Visualization**.
-This internship reflects my effort to bridge **academic learning** with **real-world industry applications** through practical assignments, analytical projects, and dashboard development.
+I'm **Ananya Mangaj**, a curious and driven Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
 
-### 🔗 Connect With Me
-- **GitHub:** [AnanyaMangaj](https://github.com/AnanyaMangaj)
-- **LinkedIn:** [www.linkedin.com/in/ananya-mangaj](https://www.linkedin.com/)
+Over **7 intensive weeks** at **Take It Smart Pvt Ltd, Bengaluru**, I didn't just complete tasks — I built a mindset. A mindset that sees patterns in chaos, stories in spreadsheets, and decisions in data.
 
----
+This repo is not just an assignment submission.
+**It's proof of work. Week by week. Skill by skill.**
 
-## 🎯 Internship Overview
-
-| Field | Details |
-|-------|---------|
-| **Organization** | Take It Smart Pvt Ltd, Bengaluru |
-| **Program** | VTU Internship |
-| **Role** | Data Science Intern |
-| **Duration** | 7 Weeks |
-| **Core Technologies** | Python, SQL, Pandas, Seaborn, Scikit-learn, Dash, Power BI |
-| **Project Type** | Weekly Assignments + Real-World Data Projects |
+<br clear="right"/>
 
 ---
 
-## 💡 Internship Journey
+## 🗺️ The 7-Week Learning Map
 
-This internship covers a **step-by-step progression through core Data Science concepts**, beginning with Python fundamentals and ending with an **end-to-end Pizza Sales Analytics Dashboard**.
+```mermaid
+graph LR
+    A[🐍 Week 1\nPython Basics] --> B[🧹 Week 2\nData Cleaning]
+    B --> C[📊 Week 3\nEDA & Viz]
+    C --> D[🤖 Week 4\nML Models]
+    D --> E[🗄️ Week 5\nSQL + Projects]
+    E --> F[⚙️ Week 6\nAdvanced ML]
+    F --> G[🍕 Week 7\nCapstone Dashboard]
 
----
-
-## 📁 Week 01 — Python & Data Science Foundations
-
-### 🔍 Focus Areas
-- Environment Setup · Python Basics · Introduction to Data Science Workflow
-
-### ✅ Tasks Completed
-- Set up the complete **Data Science development environment** using **Google Colab**
-- Practiced **core Python programming concepts**
-- Understood the **basic workflow of Data Science projects**
-
-### 🛠 Skills Used
-`Python` `Google Colab` `Jupyter Notebook`
-
----
-
-## 📁 Week 02 — Data Handling & Preprocessing
-
-### 🔍 Focus Areas
-- Data Cleaning · Pandas & NumPy · Handling Missing Values
-
-### ✅ Tasks Completed
-- Loaded and inspected real-world datasets
-- Identified missing values and inconsistencies
-- Applied data cleaning methods: **Imputation, Type Conversion, Outlier Handling**
-- Converted raw datasets into **analysis-ready structured data**
-
-### 🛠 Skills Used
-`Pandas` `NumPy` `Data Cleaning` `Feature Engineering`
+    style A fill:#1a1a2e,color:#fff
+    style B fill:#16213e,color:#fff
+    style C fill:#0f3460,color:#fff
+    style D fill:#533483,color:#fff
+    style E fill:#e94560,color:#fff
+    style F fill:#0f3460,color:#fff
+    style G fill:#e94560,color:#fff,stroke:#FFD700,stroke-width:3px
+```
 
 ---
 
-## 📁 Week 03 — Exploratory Data Analysis & Visualization
+## 📅 Weekly Breakdown
 
-### 🔍 Focus Areas
-- Exploratory Data Analysis (EDA) · Statistical Analysis · Data Visualization
+<details>
+<summary><b>🟢 Week 01 — Python & Data Science Foundations</b></summary>
 
-### ✅ Tasks Completed
-- Performed detailed **EDA** on datasets
-- Generated statistical summaries
-- Identified **patterns, trends, and relationships**
-- Built visualizations using **Matplotlib** and **Seaborn**
+<br/>
 
-### 🛠 Skills Used
-`Matplotlib` `Seaborn` `EDA` `Statistical Analysis`
+> *"Every data scientist's story begins with a `print('Hello, World!')`"*
 
----
+**What I did:**
+- ⚙️ Set up the full Data Science environment on **Google Colab**
+- 🐍 Brushed up on core **Python** concepts essential for DS workflows
+- 🧭 Understood the **end-to-end lifecycle** of a Data Science project
 
-## 📁 Week 04 — Machine Learning (Supervised Learning)
+**Tech used:**
 
-### 🔍 Focus Areas
-- Regression · Classification · Model Building & Evaluation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
 
-### ✅ Tasks Completed
-- Built **supervised machine learning models** using Linear Regression & Classification Algorithms
-- Split data into **training and testing datasets**
-- Evaluated models using **Accuracy, Precision, Recall, and RMSE**
-
-### 🛠 Skills Used
-`Scikit-learn` `Linear Regression` `Classification` `Model Evaluation`
+</details>
 
 ---
 
-## 📁 Week 05 — Data Analysis Projects & SQL Foundations
+<details>
+<summary><b>🟡 Week 02 — Data Handling & Preprocessing</b></summary>
 
-### 🔍 Focus Areas
-- Real-World Dataset Analysis · SQL Querying · Database Design
+<br/>
 
-### ✅ Tasks Completed
+> *"Garbage in, garbage out. Clean data is the foundation of good ML."*
 
-#### 🐧 Penguin Dataset Analysis
-- Analyzed the **Palmer Penguins dataset** — species distribution, island-wise comparison, body mass & flipper length analysis
+**What I did:**
+- 🔍 Loaded & inspected real-world messy datasets
+- 🧹 Handled **missing values** via imputation strategies
+- 🔄 Applied **type conversion**, **encoding**, and **outlier treatment**
+- ✅ Transformed raw data into clean, analysis-ready format
 
-#### 🚗 Auto MPG Dataset Analysis
-- Cleaned the **Auto MPG dataset**, handled missing horsepower values, and computed KPIs like Average MPG, cylinder-based insights
+**Tech used:**
 
-#### 🗄 SQL Foundations
-- Practiced **DDL, DML, DQL, DCL, TCL** — commands like `DELETE`, `TRUNCATE`, `DROP`
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-#### 🛒 SQL Mini Project — Amazon Sales Data
-- Designed relational tables for **Customers, Products, Orders** and wrote analytical queries for business insights
-
-#### 🔗 SQL Advanced Tasks
-- Implemented constraints: `PRIMARY KEY`, `FOREIGN KEY`, `CHECK`, `UNIQUE`, `DEFAULT`
-- Practiced **INNER JOIN, LEFT JOIN, Aggregation Queries**
-
-### 🛠 Skills Used
-`Python` `Pandas` `Seaborn` `MySQL` `SQL Joins` `Aggregations` `Database Design`
+</details>
 
 ---
 
-## 📁 Week 06 — Advanced Machine Learning & Model Optimization
+<details>
+<summary><b>🔵 Week 03 — Exploratory Data Analysis & Visualization</b></summary>
 
-### 🔍 Focus Areas
-- Unsupervised Learning · Hyperparameter Tuning · ML Pipelines
+<br/>
 
-### ✅ Tasks Completed
-- Applied **unsupervised learning**: K-Means Clustering & PCA
-- Performed **hyperparameter tuning** using GridSearchCV
-- Built **end-to-end ML pipelines** with cross-validation to improve model performance
+> *"A good visualization tells a story that a thousand rows can't."*
 
-### 🛠 Skills Used
-`Scikit-learn` `K-Means` `PCA` `GridSearchCV` `Cross-Validation`
+**What I did:**
+- 📐 Computed **descriptive statistics** and correlation matrices
+- 📈 Uncovered hidden **patterns, trends, and anomalies**
+- 🎨 Created impactful charts — histograms, heatmaps, pair plots, box plots
 
----
+**Tech used:**
 
-## 📁 Week 07 — Capstone Project: Pizza Sales Analytics Dashboard
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
-### 🔍 Focus Areas
-- End-to-End Data Project · SQL Analytics · Interactive Dashboard · Business Intelligence
-
-### ✅ Tasks Completed
-
-#### 📊 SQL Analytics
-- Wrote **15+ SQL queries** — computed KPIs: Total Revenue, Total Orders, Total Pizzas Sold, Average Order Value, Average Pizzas Per Order
-
-#### 📈 Sales Trend Analysis
-- Analyzed **daily & monthly order trends**, identified peak sales days and high-revenue months
-
-#### 🍕 Product Performance Analysis
-- Identified **Top 5 & Bottom 5 pizzas** by revenue, quantity sold, and total orders
-- Analyzed **category-wise and size-wise** sales contribution
-
-#### 🖥 Interactive Python Dashboard
-- Built an **interactive dashboard using Dash & Plotly** with KPI Cards, Dynamic Filtering, Cross-chart Interaction, and Reset Filters
-
-#### 📊 Power BI Dashboard
-- Designed a **professional Power BI report** with KPI visuals, trend analysis charts, category breakdowns, and executive-style presentation
-
-### 🛠 Skills Used
-`Python` `Dash` `Plotly` `Pandas` `MySQL` `Power BI` `Business Intelligence` `Data Storytelling`
+</details>
 
 ---
 
-## 🧠 Skills Demonstrated
+<details>
+<summary><b>🟣 Week 04 — Machine Learning (Supervised Learning)</b></summary>
 
-| Domain | Skills |
-|--------|--------|
-| **Programming** | Python, SQL |
-| **Data Handling** | Pandas, NumPy, Data Cleaning, Feature Engineering |
-| **Visualization** | Matplotlib, Seaborn, Plotly, Power BI |
-| **Machine Learning** | Regression, Classification, Clustering, PCA |
-| **Model Optimization** | Hyperparameter Tuning, Cross-Validation, GridSearchCV |
-| **Database & SQL** | MySQL, DDL, DML, DQL, Joins, Aggregations, Subqueries |
-| **Dashboarding** | Dash, Power BI |
-| **Tools & Platforms** | Google Colab, Jupyter Notebook, Git, GitHub |
+<br/>
+
+> *"The goal of ML is not to memorize data — it's to learn from it."*
+
+**What I did:**
+- 🔢 Built **Regression models** to predict continuous outcomes
+- 🏷️ Applied **Classification algorithms** for categorical predictions
+- ✂️ Split data using **train-test split** strategy
+- 📏 Evaluated performance using **Accuracy, Precision, Recall, RMSE**
+
+**Tech used:**
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</details>
 
 ---
 
-## 🏢 About Take It Smart Pvt Ltd
+<details>
+<summary><b>🟠 Week 05 — Real-World Projects & SQL Foundations</b></summary>
 
-**Take It Smart Pvt Ltd** is a technology-driven organization based in **Bengaluru, India**, focusing on **Artificial Intelligence, Data Science, and Smart Technology Solutions**.
-The internship provided practical exposure to **real-world datasets**, **industry workflows**, and **business-focused problem solving**.
+<br/>
+
+> *"SQL is the language data speaks. I just learned to listen."*
+
+**Mini Projects:**
+
+| Project | Highlights |
+|---------|-----------|
+| 🐧 Palmer Penguins | Species & island distribution, body mass & flipper analysis |
+| 🚗 Auto MPG Dataset | Missing value handling, MPG KPIs, cylinder-wise insights |
+| 🛒 Amazon Sales (SQL) | Relational table design, business insight queries |
+
+**SQL Skills Gained:**
+- DDL, DML, DQL, DCL, TCL commands
+- `PRIMARY KEY`, `FOREIGN KEY`, `CHECK`, `UNIQUE`, `DEFAULT` constraints
+- `INNER JOIN`, `LEFT JOIN`, Aggregations, Subqueries
+
+**Tech used:**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+
+</details>
 
 ---
 
-## 🎓 About VTU Internship Program
+<details>
+<summary><b>⚙️ Week 06 — Advanced ML & Model Optimization</b></summary>
 
-The **Visvesvaraya Technological University (VTU)** internship program is an academic-industry initiative designed to help students gain **practical industry experience** alongside their engineering curriculum.
+<br/>
+
+> *"A model that can't generalize is just expensive memorization."*
+
+**What I did:**
+- 🔵 Applied **K-Means Clustering** for unsupervised segmentation
+- 📉 Used **PCA** to reduce dimensionality while preserving variance
+- 🔧 Tuned models with **GridSearchCV** for optimal hyperparameters
+- 🔁 Validated performance using **K-Fold Cross Validation**
+
+**Tech used:**
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><b>🏆 Week 07 — Capstone: Pizza Sales Analytics Dashboard</b></summary>
+
+<br/>
+
+> *"This isn't just a dashboard — it's a full data product."*
+
+**End-to-End Deliverables:**
+
+**📊 SQL Analytics Layer**
+- 15+ queries computing: Total Revenue, Avg Order Value, Pizzas Sold, Orders/Day
+
+**📈 Business Insights**
+- Daily & monthly trend analysis
+- Top 5 & Bottom 5 pizzas by revenue, quantity, and orders
+- Category-wise and size-wise sales breakdown
+
+**🖥️ Interactive Python Dashboard (Dash + Plotly)**
+- KPI Cards, Dynamic Filters, Cross-chart Interaction, Reset Button
+
+**📊 Power BI Report**
+- Executive-style report with KPIs, trend visuals, and category analysis
+
+**Tech used:**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</details>
+
+---
+
+## 🧰 Full Tech Arsenal
+
+<div align="center">
+
+| Layer | Tools |
+|-------|-------|
+| 🐍 Language | Python 3.x |
+| 🔢 Data Wrangling | Pandas, NumPy |
+| 📊 Visualization | Matplotlib, Seaborn, Plotly |
+| 🤖 Machine Learning | Scikit-learn (Regression, Classification, Clustering, PCA) |
+| ⚙️ Optimization | GridSearchCV, Cross-Validation |
+| 🗄️ Database | MySQL — DDL, DML, Joins, Aggregations |
+| 📋 Dashboards | Dash, Power BI |
+| 🛠️ Environment | Google Colab, Jupyter Notebook, VS Code |
+| 🔧 Version Control | Git & GitHub |
+
+</div>
 
 ---
 
 ## 📂 Repository Structure
 
 ```bash
-Internship-Tasks/
+📦 Internship-Tasks/
 │
-├── WEEK_01/        # Python & Data Science Foundations
-├── WEEK_02/        # Data Handling & Preprocessing
-├── WEEK_03/        # Exploratory Data Analysis & Visualization
-├── WEEK_04/        # Supervised Machine Learning
-├── WEEK_05/        # Data Analysis Projects & SQL Foundations
-├── WEEK_06/        # Advanced ML & Model Optimization
-└── WEEK_07/        # Capstone — Pizza Sales Analytics Dashboard
+├── 🗂️ WEEK_01/     ── Python & Data Science Foundations
+├── 🗂️ WEEK_02/     ── Data Handling & Preprocessing
+├── 🗂️ WEEK_03/     ── EDA & Visualization
+├── 🗂️ WEEK_04/     ── Supervised Machine Learning
+├── 🗂️ WEEK_05/     ── Real-World Projects & SQL
+├── 🗂️ WEEK_06/     ── Advanced ML & Optimization
+├── 🗂️ WEEK_07/     ── 🏆 Capstone — Pizza Sales Dashboard
+└── 📄 README.md
 ```
 
 ---
 
-## 📬 Connect With Me
+## 📊 Progress Snapshot
 
-<p align="center">
-  <a href="https://github.com/AnanyaMangaj">
-    <img src="https://img.shields.io/badge/GitHub-AnanyaMangaj-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="www.linkedin.com/in/ananya-mangaj">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mangajananya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+| Week | Topic | Status |
+|------|-------|--------|
+| Week 01 | Python & DS Foundations | ✅ Done |
+| Week 02 | Data Cleaning & Preprocessing | ✅ Done |
+| Week 03 | EDA & Visualization | ✅ Done |
+| Week 04 | Supervised ML | ✅ Done |
+| Week 05 | Projects & SQL | ✅ Done |
+| Week 06 | Advanced ML & Optimization | ✅ Done |
+| Week 07 | Capstone Dashboard | ✅ Done |
 
-> 📝 *Update the LinkedIn and email links above with your real details!*
+<div align="center">
+
+**🎯 7 / 7 Weeks Completed — 100% 🔥**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you're a fellow learner, a recruiter, or just someone who loves data — let's talk!
+
+[![GitHub](https://img.shields.io/badge/GitHub-AnanyaMangaj-181717?style=for-the-badge&logo=github)](https://github.com/AnanyaMangaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL-HERE)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
-
-<sub>📊 Built with curiosity & Python by <a href="https://github.com/AnanyaMangaj">Ananya Mangaj</a> · Data Science Intern · VTU × Take It Smart Pvt Ltd</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,16,24&height=130&section=footer&text=Data%20is%20not%20just%20numbers.%20It%27s%20a%20story%20waiting%20to%20be%20told.&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 </div>
