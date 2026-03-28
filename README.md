@@ -239,10 +239,10 @@ Internship-Tasks/
   <a href="https://github.com/AnanyaMangaj">
     <img src="https://img.shields.io/badge/GitHub-AnanyaMangaj-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="www.linkedin.com/in/ananya-mangaj">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR-EMAIL-HERE">
+  <a href="mangajananya@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
