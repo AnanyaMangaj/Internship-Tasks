@@ -3,10 +3,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Internship%20Tasks&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Science%20%26%20Machine%20Learning%20Journey%20%F0%9F%A4%96&descAlignY=58&descSize=18"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Domain-Data%20Science%20%26%20ML-blueviolet?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Role-Student%20Intern-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/last-commit/AnanyaMangaj/Internship-Tasks?style=for-the-badge&logo=git&color=red" />
+  <img src="https://img.shields.io/badge/Role-Data%20Science%20Intern-blueviolet?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Organization-Take%20It%20Smart%20Pvt%20Ltd-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/University-VTU-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Duration-7%20Weeks-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
 <p>
@@ -14,118 +15,221 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
 </div>
 
 ---
 
-## 🧠 About This Repository
+## 👤 About Me
 
-> *"In God we trust. All others must bring data."* — W. Edwards Deming
+**Ananya Mangaj**
+**Data Science Intern**
+Visvesvaraya Technological University (VTU), Karnataka
 
-Hi! I'm **Ananya Mangaj**, a Data Science & ML student intern on a mission to turn raw data into meaningful insights. This repository is my hands-on learning journal — every task here reflects a real-world data problem I've explored, modeled, and solved during my internship.
+I am a passionate **Data Science enthusiast** with hands-on experience in **Python, SQL, Machine Learning, Data Analysis, and Data Visualization**.
+This internship reflects my effort to bridge **academic learning** with **real-world industry applications** through practical assignments, analytical projects, and dashboard development.
 
-From **EDA and data wrangling** to **machine learning models and visualizations**, this repo tracks my growth as a data practitioner.
+### 🔗 Connect With Me
+- **GitHub:** [AnanyaMangaj](https://github.com/AnanyaMangaj)
+- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/)
+
+---
+
+## 🎯 Internship Overview
+
+| Field | Details |
+|-------|---------|
+| **Organization** | Take It Smart Pvt Ltd, Bengaluru |
+| **Program** | VTU Internship |
+| **Role** | Data Science Intern |
+| **Duration** | 7 Weeks |
+| **Core Technologies** | Python, SQL, Pandas, Seaborn, Scikit-learn, Dash, Power BI |
+| **Project Type** | Weekly Assignments + Real-World Data Projects |
+
+---
+
+## 💡 Internship Journey
+
+This internship covers a **step-by-step progression through core Data Science concepts**, beginning with Python fundamentals and ending with an **end-to-end Pizza Sales Analytics Dashboard**.
+
+---
+
+## 📁 Week 01 — Python & Data Science Foundations
+
+### 🔍 Focus Areas
+- Environment Setup · Python Basics · Introduction to Data Science Workflow
+
+### ✅ Tasks Completed
+- Set up the complete **Data Science development environment** using **Google Colab**
+- Practiced **core Python programming concepts**
+- Understood the **basic workflow of Data Science projects**
+
+### 🛠 Skills Used
+`Python` `Google Colab` `Jupyter Notebook`
+
+---
+
+## 📁 Week 02 — Data Handling & Preprocessing
+
+### 🔍 Focus Areas
+- Data Cleaning · Pandas & NumPy · Handling Missing Values
+
+### ✅ Tasks Completed
+- Loaded and inspected real-world datasets
+- Identified missing values and inconsistencies
+- Applied data cleaning methods: **Imputation, Type Conversion, Outlier Handling**
+- Converted raw datasets into **analysis-ready structured data**
+
+### 🛠 Skills Used
+`Pandas` `NumPy` `Data Cleaning` `Feature Engineering`
+
+---
+
+## 📁 Week 03 — Exploratory Data Analysis & Visualization
+
+### 🔍 Focus Areas
+- Exploratory Data Analysis (EDA) · Statistical Analysis · Data Visualization
+
+### ✅ Tasks Completed
+- Performed detailed **EDA** on datasets
+- Generated statistical summaries
+- Identified **patterns, trends, and relationships**
+- Built visualizations using **Matplotlib** and **Seaborn**
+
+### 🛠 Skills Used
+`Matplotlib` `Seaborn` `EDA` `Statistical Analysis`
+
+---
+
+## 📁 Week 04 — Machine Learning (Supervised Learning)
+
+### 🔍 Focus Areas
+- Regression · Classification · Model Building & Evaluation
+
+### ✅ Tasks Completed
+- Built **supervised machine learning models** using Linear Regression & Classification Algorithms
+- Split data into **training and testing datasets**
+- Evaluated models using **Accuracy, Precision, Recall, and RMSE**
+
+### 🛠 Skills Used
+`Scikit-learn` `Linear Regression` `Classification` `Model Evaluation`
+
+---
+
+## 📁 Week 05 — Data Analysis Projects & SQL Foundations
+
+### 🔍 Focus Areas
+- Real-World Dataset Analysis · SQL Querying · Database Design
+
+### ✅ Tasks Completed
+
+#### 🐧 Penguin Dataset Analysis
+- Analyzed the **Palmer Penguins dataset** — species distribution, island-wise comparison, body mass & flipper length analysis
+
+#### 🚗 Auto MPG Dataset Analysis
+- Cleaned the **Auto MPG dataset**, handled missing horsepower values, and computed KPIs like Average MPG, cylinder-based insights
+
+#### 🗄 SQL Foundations
+- Practiced **DDL, DML, DQL, DCL, TCL** — commands like `DELETE`, `TRUNCATE`, `DROP`
+
+#### 🛒 SQL Mini Project — Amazon Sales Data
+- Designed relational tables for **Customers, Products, Orders** and wrote analytical queries for business insights
+
+#### 🔗 SQL Advanced Tasks
+- Implemented constraints: `PRIMARY KEY`, `FOREIGN KEY`, `CHECK`, `UNIQUE`, `DEFAULT`
+- Practiced **INNER JOIN, LEFT JOIN, Aggregation Queries**
+
+### 🛠 Skills Used
+`Python` `Pandas` `Seaborn` `MySQL` `SQL Joins` `Aggregations` `Database Design`
+
+---
+
+## 📁 Week 06 — Advanced Machine Learning & Model Optimization
+
+### 🔍 Focus Areas
+- Unsupervised Learning · Hyperparameter Tuning · ML Pipelines
+
+### ✅ Tasks Completed
+- Applied **unsupervised learning**: K-Means Clustering & PCA
+- Performed **hyperparameter tuning** using GridSearchCV
+- Built **end-to-end ML pipelines** with cross-validation to improve model performance
+
+### 🛠 Skills Used
+`Scikit-learn` `K-Means` `PCA` `GridSearchCV` `Cross-Validation`
+
+---
+
+## 📁 Week 07 — Capstone Project: Pizza Sales Analytics Dashboard
+
+### 🔍 Focus Areas
+- End-to-End Data Project · SQL Analytics · Interactive Dashboard · Business Intelligence
+
+### ✅ Tasks Completed
+
+#### 📊 SQL Analytics
+- Wrote **15+ SQL queries** — computed KPIs: Total Revenue, Total Orders, Total Pizzas Sold, Average Order Value, Average Pizzas Per Order
+
+#### 📈 Sales Trend Analysis
+- Analyzed **daily & monthly order trends**, identified peak sales days and high-revenue months
+
+#### 🍕 Product Performance Analysis
+- Identified **Top 5 & Bottom 5 pizzas** by revenue, quantity sold, and total orders
+- Analyzed **category-wise and size-wise** sales contribution
+
+#### 🖥 Interactive Python Dashboard
+- Built an **interactive dashboard using Dash & Plotly** with KPI Cards, Dynamic Filtering, Cross-chart Interaction, and Reset Filters
+
+#### 📊 Power BI Dashboard
+- Designed a **professional Power BI report** with KPI visuals, trend analysis charts, category breakdowns, and executive-style presentation
+
+### 🛠 Skills Used
+`Python` `Dash` `Plotly` `Pandas` `MySQL` `Power BI` `Business Intelligence` `Data Storytelling`
+
+---
+
+## 🧠 Skills Demonstrated
+
+| Domain | Skills |
+|--------|--------|
+| **Programming** | Python, SQL |
+| **Data Handling** | Pandas, NumPy, Data Cleaning, Feature Engineering |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Power BI |
+| **Machine Learning** | Regression, Classification, Clustering, PCA |
+| **Model Optimization** | Hyperparameter Tuning, Cross-Validation, GridSearchCV |
+| **Database & SQL** | MySQL, DDL, DML, DQL, Joins, Aggregations, Subqueries |
+| **Dashboarding** | Dash, Power BI |
+| **Tools & Platforms** | Google Colab, Jupyter Notebook, Git, GitHub |
+
+---
+
+## 🏢 About Take It Smart Pvt Ltd
+
+**Take It Smart Pvt Ltd** is a technology-driven organization based in **Bengaluru, India**, focusing on **Artificial Intelligence, Data Science, and Smart Technology Solutions**.
+The internship provided practical exposure to **real-world datasets**, **industry workflows**, and **business-focused problem solving**.
+
+---
+
+## 🎓 About VTU Internship Program
+
+The **Visvesvaraya Technological University (VTU)** internship program is an academic-industry initiative designed to help students gain **practical industry experience** alongside their engineering curriculum.
 
 ---
 
 ## 📂 Repository Structure
 
-```
-📦 Internship-Tasks
- ┣ 📂 Task-01_EDA/                  → Exploratory Data Analysis
- ┃  ┣ 📓 notebook.ipynb
- ┃  ┗ 📊 dataset.csv
- ┣ 📂 Task-02_Data-Cleaning/        → Data Preprocessing & Wrangling
- ┣ 📂 Task-03_Visualization/        → Charts, Plots & Dashboards
- ┣ 📂 Task-04_ML-Model/             → Machine Learning Model Building
- ┣ 📂 Task-05_Feature-Engineering/  → Feature Selection & Engineering
- ┗ 📄 README.md
-```
-
-> 🔄 *Update folder names to match your actual tasks!*
-
----
-
-## ✅ Tasks Overview
-
-| # | Task | Techniques Used | Tools | Status |
-|---|------|-----------------|-------|--------|
-| 01 | Exploratory Data Analysis | Statistical Analysis, Correlation | Pandas, Seaborn | ✅ Completed |
-| 02 | Data Cleaning & Preprocessing | Null handling, Encoding, Scaling | Pandas, NumPy | ✅ Completed |
-| 03 | Data Visualization | Bar, Heatmap, Distribution plots | Matplotlib, Plotly | ✅ Completed |
-| 04 | Classification Model | Logistic Regression / Decision Tree | Scikit-learn | 🔄 In Progress |
-| 05 | Feature Engineering | PCA, SelectKBest | Scikit-learn | ⏳ Upcoming |
-
-> ✏️ *Replace rows with your real tasks, techniques, and status!*
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,jupyter,pandas,git,github,vscode&perline=8" />
-</p>
-
-| Category | Libraries / Tools |
-|----------|-------------------|
-| 🐍 Language | Python 3.x |
-| 📊 Data Manipulation | Pandas, NumPy |
-| 📉 Visualization | Matplotlib, Seaborn, Plotly |
-| 🤖 Machine Learning | Scikit-learn, XGBoost |
-| 📓 Environment | Jupyter Notebook / Google Colab |
-| 🔧 Version Control | Git & GitHub |
-
----
-
-## 📊 Key Learnings & Skills
-
-```python
-skills_gained = {
-    "Data Wrangling"       : ["Handling missing values", "Outlier detection", "Data encoding"],
-    "Exploratory Analysis" : ["Descriptive stats", "Correlation analysis", "Distribution plots"],
-    "Machine Learning"     : ["Model training", "Train-test split", "Evaluation metrics"],
-    "Visualization"        : ["Storytelling with data", "Interactive dashboards"],
-    "Best Practices"       : ["Clean code", "Reproducible notebooks", "Git workflow"]
-}
-```
-
----
-
-## ⚙️ How to Run These Notebooks
-
 ```bash
-# Step 1: Clone the repository
-git clone https://github.com/AnanyaMangaj/Internship-Tasks.git
-cd Internship-Tasks
-
-# Step 2: Create a virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate        # Mac/Linux
-venv\Scripts\activate           # Windows
-
-# Step 3: Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter plotly
-
-# Step 4: Launch Jupyter Notebook
-jupyter notebook
+Internship-Tasks/
+│
+├── WEEK_01/        # Python & Data Science Foundations
+├── WEEK_02/        # Data Handling & Preprocessing
+├── WEEK_03/        # Exploratory Data Analysis & Visualization
+├── WEEK_04/        # Supervised Machine Learning
+├── WEEK_05/        # Data Analysis Projects & SQL Foundations
+├── WEEK_06/        # Advanced ML & Model Optimization
+└── WEEK_07/        # Capstone — Pizza Sales Analytics Dashboard
 ```
-
-> 💡 *Alternatively, open `.ipynb` files directly in **Google Colab** — no setup needed!*
-
----
-
-## 📈 My Data Science Roadmap
-
-- [x] Python for Data Science fundamentals
-- [x] Data Cleaning & EDA
-- [x] Data Visualization
-- [ ] Supervised ML (Classification & Regression)
-- [ ] Unsupervised ML (Clustering, PCA)
-- [ ] Model Evaluation & Hyperparameter Tuning
-- [ ] Deep Learning Basics
-- [ ] Real-world Capstone Project
 
 ---
 
@@ -147,16 +251,10 @@ jupyter notebook
 
 ---
 
-## ⭐ Show Some Love
-
-If this repo helps you or inspires your own data journey, drop a **⭐ star** — it truly motivates me to keep learning and sharing!
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
 
-<sub>📊 Built with curiosity & Python by <a href="https://github.com/AnanyaMangaj">Ananya Mangaj</a> · Student Intern · 2024</sub>
+<sub>📊 Built with curiosity & Python by <a href="https://github.com/AnanyaMangaj">Ananya Mangaj</a> · Data Science Intern · VTU × Take It Smart Pvt Ltd</sub>
 
 </div>
