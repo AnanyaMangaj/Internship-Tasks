@@ -22,16 +22,16 @@
 
 ---
 
+
 <img align="right" alt="Data Science GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🙋‍♀️ Who Am I?
+## 🙋‍♀️ About Me
 
-I'm **Ananya Mangaj**, a curious and driven Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
+Hi, I'm **Ananya Mangaj**, a Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
 
-Over **7 intensive weeks** at **Take It Smart Pvt Ltd, Bengaluru**, I didn't just complete tasks — I built a mindset. A mindset that sees patterns in chaos, stories in spreadsheets, and decisions in data.
+This repository contains all the tasks and mini-projects I completed during my **7-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
 
-This repo is not just an assignment submission.
-**It's proof of work. Week by week. Skill by skill.**
+Each week covers a new concept — from Python basics and data cleaning to machine learning, SQL, and a full capstone dashboard.
 
 <br clear="right"/>
 
