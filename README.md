@@ -1,10 +1,4 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,16,24&height=220&section=header&text=Ananya%20Mangaj&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20Intern%20%7C%20VTU%20%C3%97%20Take%20It%20Smart%20Pvt%20Ltd&descAlignY=62&descSize=17"/>
-
-</div>
-
-<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -494,8 +488,8 @@ Writing the complete pipeline 5 times reinforced muscle memory for the full skle
 If you're a fellow learner, a recruiter, or just someone who loves data — let's talk!
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnanyaMangaj-181717?style=for-the-badge&logo=github)](https://github.com/AnanyaMangaj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananya-mangaj/)
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](mangajananya@gmail.com)
 
 </div>
 
