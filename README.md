@@ -458,7 +458,7 @@ Writing the complete pipeline 5 times reinforced muscle memory for the full skle
 
 ---
 
-## 📊 Progress Snapshot
+## 📊 Progress 
 
 | Week | Topic | Status |
 |------|-------|--------|
