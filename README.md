@@ -489,7 +489,7 @@ If you're a fellow learner, a recruiter, or just someone who loves data — let'
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnanyaMangaj-181717?style=for-the-badge&logo=github)](https://github.com/AnanyaMangaj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananya-mangaj/)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](mangajananya@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/)
 
 </div>
 
