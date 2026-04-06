@@ -1,10 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,16,24&height=220&section=header&text=Ananya%20Mangaj&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20Intern%20%7C%20VTU%20%C3%97%20Take%20It%20Smart%20Pvt%20Ltd&descAlignY=62&descSize=17"/>
-
-</div>
-
-<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
