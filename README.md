@@ -1,6 +1,14 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,16,24&height=220&section=header&text=Ananya%20Mangaj&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20Intern%20%7C%20VTU%20%C3%97%20Take%20It%20Smart%20Pvt%20Ltd&descAlignY=62&descSize=17"/>
+
+</div>
+
+<div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   🧠 Turning Raw Data into Real Decisions — 8 Weeks of Work  ║
+║   🧠 Turning Raw Data into Real Decisions — 9 Weeks of Work  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -27,7 +35,7 @@
 
 Hi, I'm **Ananya Mangaj**, a Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
 
-This repository contains all the tasks and mini-projects I completed during my **8-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
+This repository contains all the tasks and mini-projects I completed during my **9-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
 
 Each week covers a new concept — from Python basics and data cleaning to machine learning, SQL, and a full capstone dashboard.
 
@@ -35,7 +43,7 @@ Each week covers a new concept — from Python basics and data cleaning to machi
 
 ---
 
-## 🗺️ The 8-Week Learning Map
+## 🗺️ The 9-Week Learning Map
 
 ```mermaid
 graph LR
@@ -46,6 +54,7 @@ graph LR
     E --> F[⚙️ Week 6\nAdvanced ML]
     F --> G[🍕 Week 7\nCapstone Dashboard]
     G --> H[🧠 Week 8\nML Theory & Code]
+    H --> I[🔬 Week 9\nDeep Learning]
 
     style A fill:#1a1a2e,color:#fff
     style B fill:#16213e,color:#fff
@@ -55,6 +64,7 @@ graph LR
     style F fill:#0f3460,color:#fff
     style G fill:#e94560,color:#fff,stroke:#FFD700,stroke-width:3px
     style H fill:#1a1a2e,color:#fff,stroke:#00D4FF,stroke-width:3px
+    style I fill:#16213e,color:#fff,stroke:#00FF99,stroke-width:3px
 ```
 
 ---
@@ -422,6 +432,102 @@ Writing the complete pipeline 5 times reinforced muscle memory for the full skle
 
 </details>
 
+---
+
+<details>
+<summary><b>🔬 Week 09 — Deep Learning Theory & Applied ML Projects</b></summary>
+
+<br/>
+
+> *"Deep Learning is not just about layers — it's about teaching machines to see, hear, and understand."*
+
+**Daily Breakdown:**
+
+---
+
+**📓 Day 41 — Regression Assignment**
+
+Hands-on regression practice applying key algorithms to real datasets:
+
+- 🔢 **Linear Regression** — Predicting continuous outcomes with `Y = mX + c`
+- 📐 **Multiple & Polynomial Regression** — Multi-feature and curved-fit models
+- 📉 **Ridge & Lasso Regression** — Regularization to prevent overfitting
+- 📏 **Evaluation** — MSE, MAE, RMSE, R² Score on test sets
+
+---
+
+**📓 Day 42 — Classification Assignment 1**
+
+Core classification algorithm implementation and evaluation:
+
+- 🏷️ **Logistic Regression** — Binary classification with Sigmoid function
+- 📍 **K-Nearest Neighbors (KNN)** — Distance-based majority voting
+- 🧱 **Support Vector Machine (SVM)** — Hyperplane with maximum margin
+- 📊 **Metrics** — Accuracy, Precision, Recall, F1-Score, Confusion Matrix
+
+---
+
+**📓 Day 43 — Classification Assignment 2**
+
+Advanced tree-based and probabilistic classifiers:
+
+- 🌳 **Decision Tree** — Gini Index / Entropy / Information Gain splits
+- 🌲 **Random Forest** — Ensemble majority voting for better generalization
+- 📬 **Naive Bayes** — Bayes Theorem `P(A|B) = P(B|A)·P(A)/P(B)`
+- 🔁 **Cross Validation** — K-Fold CV for reliable performance estimation
+
+---
+
+**📓 Day 44 — Mini Projects**
+
+| Project | Highlights |
+|---------|-----------|
+| 📉 Customer Churn Prediction | Classification model to predict telecom customer churn; feature engineering, model evaluation |
+| 🛒 E-Commerce Customer Behaviour Analysis | Customer segmentation and behaviour patterns from e-commerce transaction data |
+
+---
+
+**📓 Day 45 — Deep Learning Theory (24 Q&A Entries)**
+
+Comprehensive handwritten notes covering the full Deep Learning landscape:
+
+| Topic | Key Points |
+|-------|-----------|
+| What is Deep Learning? | Subset of ML using artificial neural networks with many layers; inspired by the human brain |
+| Neural Network | Computational model of connected neurons processing data in Input → Hidden → Output layers |
+| ML vs Deep Learning | ML: manual feature extraction, small datasets, simple algorithms; DL: automatic extraction, large datasets, neural networks |
+| Forward Propagation | Input data flows layer-by-layer through the network to generate a prediction |
+| Backward Propagation | Calculates error, sends it back through the network, updates weights to improve model |
+| Gradient Descent | Optimization algorithm that minimizes loss by moving in direction of steepest error decrease |
+| Types of Gradient Descent | Batch (full dataset, stable), SGD (one point, noisy), Mini-Batch (small batches, most common) |
+| Activation Functions | Sigmoid, Tanh, ReLU, Leaky ReLU, Softmax — introduce non-linearity into the network |
+| When to Use Which Activation | ReLU → hidden layers; Sigmoid → binary output; Softmax → multi-class; Tanh → when negatives needed |
+| Loss Function | Measures gap between predicted and actual value; MSE, Cross Entropy Loss; lower = better model |
+| Life Cycle of Deep Learning | Problem Definition → Data Collection → Preprocessing → Model Selection → Training → Evaluation → Deployment → Monitoring |
+| Applications of Deep Learning | Image/speech recognition, NLP, self-driving cars, medical diagnosis, fraud detection, chatbots, recommendation systems |
+| Perceptron | Simplest neural network — single neuron for binary classification |
+| Multi-Layer Perceptron (MLP) | Neural network with multiple hidden layers; used for classification, regression, pattern recognition |
+| Features of Deep Learning | Automatic feature extraction, handles large & unstructured data, high accuracy, requires GPU |
+| FNN | Feedforward Neural Network — data flows only input → output; used for structured tabular data |
+| CNN | Convolutional Neural Network — deep learning model for image processing; image classification, object detection, facial recognition |
+| LSTM | Long Short-Term Memory — special RNN designed to remember long-term dependencies; speech recognition, language translation, time series forecasting |
+| RNN | Recurrent Neural Network — sequential data where previous info influences future outputs; text generation, speech recognition |
+| GAN | Generative Adversarial Network — Generator vs Discriminator competing to create realistic data; image generation, deepfakes, data augmentation |
+| GRU | Gated Recurrent Unit — simplified LSTM with faster training and fewer parameters |
+| Transformer | Deep learning model using self-attention instead of recurrence; used in BERT, GPT, language models, machine translation |
+
+---
+
+**Tech used:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</details>
+
 <div align="center">
 
 | Layer | Tools |
@@ -453,12 +559,13 @@ Writing the complete pipeline 5 times reinforced muscle memory for the full skle
 ├── 🗂️ WEEK_06/     ── Advanced ML & Optimization
 ├── 🗂️ WEEK_07/     ── 🏆 Capstone — Pizza Sales Dashboard
 ├── 🗂️ WEEK_08/     ── 🧠 ML Theory & Hands-On Coding
+├── 🗂️ WEEK_09/     ── 🔬 Deep Learning Theory & Applied ML Projects
 └── 📄 README.md
 ```
 
 ---
 
-## 📊 Progress 
+## 📊 Progress Snapshot
 
 | Week | Topic | Status |
 |------|-------|--------|
@@ -470,10 +577,11 @@ Writing the complete pipeline 5 times reinforced muscle memory for the full skle
 | Week 06 | Advanced ML & Optimization | ✅ Done |
 | Week 07 | Capstone Dashboard | ✅ Done |
 | Week 08 | ML Theory & Hands-On Coding | ✅ Done |
+| Week 09 | Deep Learning Theory & Applied ML Projects | ✅ Done |
 
 <div align="center">
 
-**🎯 8 / 8 Weeks Completed — 100% 🔥**
+**🎯 9 / 9 Weeks Completed — 100% 🔥**
 
 </div>
 
@@ -486,8 +594,8 @@ Writing the complete pipeline 5 times reinforced muscle memory for the full skle
 If you're a fellow learner, a recruiter, or just someone who loves data — let's talk!
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnanyaMangaj-181717?style=for-the-badge&logo=github)](https://github.com/AnanyaMangaj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananya-mangaj/)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL-HERE)
 
 </div>
 
