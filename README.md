@@ -1,7 +1,6 @@
-
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   🧠 Turning Raw Data into Real Decisions — 9 Weeks of Work  ║
+║   🧠 Turning Raw Data into Real Decisions — 10 Weeks of Work  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -28,7 +27,7 @@
 
 Hi, I'm **Ananya Mangaj**, a Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
 
-This repository contains all the tasks and mini-projects I completed during my **9-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
+This repository contains all the tasks and mini-projects I completed during my **10-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
 
 Each week covers a new concept — from Python basics and data cleaning to machine learning, SQL, and a full capstone dashboard.
 
@@ -36,7 +35,7 @@ Each week covers a new concept — from Python basics and data cleaning to machi
 
 ---
 
-## 🗺️ The 9-Week Learning Map
+## 🗺️ The 10-Week Learning Map
 
 ```mermaid
 graph LR
@@ -48,6 +47,7 @@ graph LR
     F --> G[🍕 Week 7\nCapstone Dashboard]
     G --> H[🧠 Week 8\nML Theory & Code]
     H --> I[🔬 Week 9\nDeep Learning]
+    I --> J[🚀 Week 10\nDL Implementations\n& Recommenders]
 
     style A fill:#1a1a2e,color:#fff
     style B fill:#16213e,color:#fff
@@ -58,6 +58,7 @@ graph LR
     style G fill:#e94560,color:#fff,stroke:#FFD700,stroke-width:3px
     style H fill:#1a1a2e,color:#fff,stroke:#00D4FF,stroke-width:3px
     style I fill:#16213e,color:#fff,stroke:#00FF99,stroke-width:3px
+    style J fill:#0f3460,color:#fff,stroke:#FF6B6B,stroke-width:3px
 ```
 
 ---
@@ -499,6 +500,88 @@ Comprehensive handwritten notes covering the full Deep Learning landscape:
 
 </details>
 
+---
+
+<details>
+<summary><b>🚀 Week 10 — Deep Learning Implementations & Recommendation Systems</b></summary>
+
+<br/>
+
+> *"From theory to deployment — building real deep learning models that see, remember, and recommend."*
+
+**Daily Breakdown:**
+
+---
+
+**📓 Day 46 — Deep Learning Theory (7 Q&A Entries)**
+
+Handwritten notes covering core deep learning architectures:
+
+| Topic | Key Points |
+|-------|-----------|
+| What is ANN? | Model inspired by the human brain; consists of neurons arranged in layers (Input → Hidden → Output); `z = w₁x₁ + w₂x₂ + ... + wₙxₙ + b`, `a = f(z)` |
+| What is CNN? | Used for image processing; extracts features using filters; layers: Convolution, Activation (ReLU), Pooling, Fully Connected; `Output(i,j) = Σ x(i+k, j+l) · w(k,l)` |
+| What is RNN? | Used for sequential data like text or time series; uses previous output as input; maintains memory; `hₜ = f(Wxₜ + Uhₜ₋₁)`, `yₜ = Whₜ` |
+| What is LSTM? | Special RNN that solves the long-term dependency problem using gates: Forget Gate, Input Gate, Output Gate; Cell State: `Cₜ = fₜ * Cₜ₋₁ + iₜ * C̃ₜ`; Output: `hₜ = oₜ * tanh(Cₜ)` |
+| What is GRU? | Simplified version of LSTM; uses Update Gate and Reset Gate; fewer parameters, faster training; `hₜ = (1 - zₜ) * hₜ₋₁ + zₜ * h̃ₜ` |
+| What is GAN? | Has two models — Generator and Discriminator; Generator creates fake data, Discriminator checks real vs fake; both compete until indistinguishable; minimax: `V(D,G) = E[log D(x)] + E[log(1 - D(G(z)))]` |
+| What is VAE? | Used to generate new data by learning probability distributions; Loss: `L = Reconstruction + KL Divergence`; `KL(q(z|x) || p(z))` |
+
+---
+
+**📓 Day 47 — Deep Learning Code Implementations**
+
+Hands-on implementation of 5 deep learning models on CIFAR-10 dataset:
+
+| Model | Implementation Highlights |
+|-------|--------------------------|
+| 🧠 FNN (Feedforward Neural Network) | `Flatten → Dense(128, relu) → Dense(64, relu) → Dense(10, softmax)`; trained on CIFAR-10; Adam optimizer, sparse categorical crossentropy |
+| 🖼️ CNN (Convolutional Neural Network) | `Conv2D(32) → MaxPooling → Conv2D(64) → MaxPooling → Flatten → Dense(64) → Dense(10)`; trained on CIFAR-10 for image classification |
+| 🔁 RNN + LSTM (Next Word Predictor) | LSTM model trained on text sequences; `Embedding → LSTM(100) → Dense(vocab_size, softmax)`; saves model as `lstm_model.h5`; Streamlit app for interactive next-word prediction |
+| 🎨 GAN (Generative Adversarial Network) | Generator + Discriminator trained on CIFAR-10; Generator: `Dense(256→512→32*32*3, tanh)`; Discriminator: `Conv2D → Dropout → Flatten → Dense(1, sigmoid)`; outputs `generated_images.png` |
+| 🔮 VAE (Variational Autoencoder) | Encoder + Decoder with custom Sampling layer; latent dimension = 32; custom `train_step` with KL divergence loss; outputs `vae_reconstruction.png` and `vae_generated.png` |
+
+---
+
+**📓 Day 48 — NLP Theory (8 Q&A Entries)**
+
+Handwritten notes covering Natural Language Processing fundamentals:
+
+| Topic | Key Points |
+|-------|-----------|
+| What is NLP? | Field of AI that enables computers to understand, interpret & generate human language; combines linguistics + ML + Deep Learning |
+| Types of NLP | NLU (Natural Language Understanding) — focuses on understanding meaning (e.g., chatbot understanding questions); NLG (Natural Language Generation) — focuses on generating text (e.g., ChatGPT generating answers) |
+| NLP vs NLU vs NLG | NLP is the complete field; NLU extracts meaning & detects intent; NLG produces text & generates content |
+| Challenges in NLP | Ambiguity (same word, different meanings — e.g., "bank"); Context understanding (meaning changes based on sentence); Sarcasm & Sentiment; Language diversity (different languages, dialects); Data limitations (lack of labelled data) |
+| Techniques of NLP | Tokenization (breaking text into words); Stop Word Removal (removing common words); Stemming (reducing words to root); Lemmatization (converting to meaningful base form); POS Tagging (identifying word types — pronoun, verb, adverb) |
+| Named Entity Recognition (NER) | Identifies entities; e.g., "Elon Musk founded Tesla" → Elon Musk = person, Tesla = organisation |
+| Bag of Words (BoW) | Counts word frequency in a document |
+| TF-IDF | Measures word importance; `TF = word count / total words`; `IDF = log(total documents / documents containing word)` |
+| Word2Vec | Converts words into vectors; captures semantic meaning; e.g., King - Man + Woman ≈ Queen |
+| N-gram | Groups of N words; Bigram example: ["Deep Learning", "Learning is", "is fun"] |
+
+---
+
+**📓 Day 49 — Mini Projects: Recommendation Systems**
+
+| Project | Highlights |
+|---------|-----------|
+| 🎬 Movie Recommendation System | Content-based filtering using TMDB 5000 dataset; feature engineering combining overview, genres, keywords, cast & crew into tags; `CountVectorizer(max_features=5000)` + Cosine Similarity; Streamlit app with 5 filter modes: Movie-Based, Genre, Actor, Director, Keyword |
+| 📚 Book Recommendation System | Content-based filtering on genre & author features; `CountVectorizer` + Cosine Similarity; Streamlit app with dropdown book selector and top-9 recommendations |
+
+---
+
+**Tech used:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</details>
+
 <div align="center">
 
 | Layer | Tools |
@@ -531,6 +614,7 @@ Comprehensive handwritten notes covering the full Deep Learning landscape:
 ├── 🗂️ WEEK_07/     ── 🏆 Capstone — Pizza Sales Dashboard
 ├── 🗂️ WEEK_08/     ── 🧠 ML Theory & Hands-On Coding
 ├── 🗂️ WEEK_09/     ── 🔬 Deep Learning Theory & Applied ML Projects
+├── 🗂️ WEEK_10/     ── 🚀 Deep Learning Implementations & Recommendation Systems
 └── 📄 README.md
 ```
 
@@ -549,10 +633,11 @@ Comprehensive handwritten notes covering the full Deep Learning landscape:
 | Week 07 | Capstone Dashboard | ✅ Done |
 | Week 08 | ML Theory & Hands-On Coding | ✅ Done |
 | Week 09 | Deep Learning Theory & Applied ML Projects | ✅ Done |
+| Week 10 | Deep Learning Implementations & Recommendation Systems | ✅ Done |
 
 <div align="center">
 
-**🎯 9 / 9 Weeks Completed — 100% 🔥**
+**🎯 10 / 10 Weeks Completed — 100% 🔥**
 
 </div>
 
