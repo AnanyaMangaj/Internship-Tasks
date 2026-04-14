@@ -122,28 +122,6 @@ graph LR
 
 **Tech used:**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-
-</details>
-
----
-
-<details>
-<summary><b>🟣 Week 04 — Machine Learning (Supervised Learning)</b></summary>
-
-<br/>
-
-> *"The goal of ML is not to memorize data — it's to learn from it."*
-
-**What I did:**
-- 🔢 Built **Regression models** to predict continuous outcomes
-- 🏷️ Applied **Classification algorithms** for categorical predictions
-- ✂️ Split data using **train-test split** strategy
-- 📏 Evaluated performance using **Accuracy, Precision, Recall, RMSE**
-
-**Tech used:**
-
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </details>
