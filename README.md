@@ -4,6 +4,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;SQL+%7C+Python+%7C+Power+BI;EDA+%7C+Visualization+%7C+Dashboards;From+Raw+Data+to+Real+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
