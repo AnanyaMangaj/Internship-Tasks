@@ -46,7 +46,7 @@ graph LR
     E --> F[⚙️ Week 6\nAdvanced ML]
     F --> G[🍕 Week 7\nCapstone Dashboard]
     G --> H[🧠 Week 8\nML Theory & Code]
-    H --> I[🔬 Week 9\nDeep Lesarning]
+    H --> I[🔬 Week 9\nDeep Learning]
     I --> J[🚀 Week 10\nDL Implementations\n& Recommenders]
 
     style A fill:#1a1a2e,color:#fff
