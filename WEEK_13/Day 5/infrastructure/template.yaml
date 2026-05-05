@@ -1,0 +1,19 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Resources:
+  EcommerceAI:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: backend/handler.lambda_handler
+      Runtime: python3.10
+      Timeout: 30
+      MemorySize: 512
+      Policies:
+        - AmazonBedrockFullAccess
+      Events:
+        ApiEvent:
+          Type: Api
+          Properties:
+            Path: /chat
+            Method: post
