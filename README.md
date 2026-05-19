@@ -1,24 +1,23 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  🧠 Turning Raw Data into Real Decisions — 13 Weeks of Work      ║
+║  🧠 Turning Raw Data into Real Decisions - 13 Weeks of Work      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;SQL+%7C+Python+%7C+Power+BI+%7C+TensorFlow;EDA+%7C+Visualization+%7C+Dashboards+%7C+NLP;From+Raw+Data+to+Real+Insights+%F0%9F%9A%80;13+Weeks+%7C+100%25+Complete+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;SQL+%7C+Python+%7C+Power+BI;EDA+%7C+Visualization+%7C+Dashboards;Deep+Learning+%7C+NLP+%7C+GenAI;RAG+%7C+AWS+Bedrock+%7C+Face+Recognition;From+Raw+Data+to+Real+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<div align="center">
-    
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -29,11 +28,11 @@
 
 ## 🙋‍♀️ About Me
 
-Hi, I'm **Ananya Mangaj**, a Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
+Hi, I'm **Keertiraj Kamble**, a Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
 
 This repository contains all the tasks and mini-projects I completed during my **13-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
 
-Each week covers a new concept — from Python basics and data cleaning to machine learning, deep learning, NLP, and a full capstone dashboard.
+Each week covers a new concept — from Python basics and data cleaning to machine learning, SQL, deep learning, and finally Generative AI with AWS Bedrock, RAG pipelines, and real-world AI deployment.
 
 <br clear="right"/>
 
@@ -52,9 +51,8 @@ graph LR
     G --> H[🧠 Week 8\nML Theory & Code]
     H --> I[🔬 Week 9\nDeep Learning]
     I --> J[🚀 Week 10\nDL Implementations\n& Recommenders]
-    J --> K[📦 Week 11\nComing Soon]
-    K --> L[📦 Week 12\nComing Soon]
-    L --> M[📦 Week 13\nComing Soon]
+    J --> K[👁️ Week 11 & 12\nFace Recognition\nAttendance System]
+    K --> L[🌐 Week 13\nGenAI, RAG\n& AWS Deployment]
 
     style A fill:#1a1a2e,color:#fff
     style B fill:#16213e,color:#fff
@@ -66,9 +64,8 @@ graph LR
     style H fill:#1a1a2e,color:#fff,stroke:#00D4FF,stroke-width:3px
     style I fill:#16213e,color:#fff,stroke:#00FF99,stroke-width:3px
     style J fill:#0f3460,color:#fff,stroke:#FF6B6B,stroke-width:3px
-    style K fill:#2a2a3e,color:#aaa,stroke:#555,stroke-dasharray:5
-    style L fill:#2a2a3e,color:#aaa,stroke:#555,stroke-dasharray:5
-    style M fill:#2a2a3e,color:#aaa,stroke:#555,stroke-dasharray:5
+    style K fill:#1a1a2e,color:#fff,stroke:#FFD700,stroke-width:3px
+    style L fill:#16213e,color:#fff,stroke:#00D4FF,stroke-width:3px
 ```
 
 ---
@@ -133,32 +130,7 @@ graph LR
 
 **Tech used:**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</details>
-
----
-
-<details>
-<summary><b>🟣 Week 04 — Supervised Machine Learning</b></summary>
-
-<br/>
-
-> *"Teaching machines to predict the future — one labeled example at a time."*
-
-**What I did:**
-- 🏷️ Built and evaluated **classification** and **regression** models
-- 📉 Applied **Linear Regression**, **Logistic Regression**, and **Decision Trees**
-- 📊 Measured performance using **Accuracy, Precision, Recall, F1-Score**
-- 🔁 Used **train-test split** for reliable model validation
-
-**Tech used:**
-
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </details>
 
@@ -316,7 +288,11 @@ Core concepts covered across 22 handwritten Q&A entries:
 | Confusion Matrix | TP, TN, FP, FN — used to measure classification accuracy |
 | Correlation | Positive, Negative, Zero correlation; range: -1 to +1 |
 | Evolution of ML | Rule-based → Statistical → Traditional ML → Big Data → Deep Learning → Generative AI |
+| Model Selection | Choosing the best algorithm based on accuracy, speed, complexity, data type |
+| Training & Testing | `model.fit(X_train, y_train)` → `model.predict(X_test)` |
+| Cross Validation | K-Fold CV: splits data into K parts for more reliable evaluation |
 | Regularization | L1 (Lasso), L2 (Ridge), Elastic Net — prevent overfitting |
+| Handling Missing Values | Remove, Fill with Mean/Median/Mode, Forward Fill, ML-based Imputation |
 
 ---
 
@@ -328,15 +304,25 @@ Core concepts covered across 22 handwritten Q&A entries:
 |-------|-----------|
 | Simple Linear Regression | One input → one output; `Y = mX + c`; predicts continuous values |
 | Multiple Linear Regression | Multiple inputs → one output; `Y = b0 + b1X1 + b2X2 + ...` |
-| Polynomial Regression | Fits a curved line; `Y = a + bX + cX² + ...`; used for nonlinear data |
+| Mathematical Implementation | YouTube Ads vs Views example: `Y = 2X` → if Ad Spend = 5, Views = 10 |
 | Loss Function | Measures prediction error; types: MSE, MAE |
+| Polynomial Regression | Fits a curved line; `Y = a + bX + cX² + ...`; used for nonlinear data |
+| Optimization | Finding best values of `m` and `c` to minimize error |
+| Evaluation Metrics | MSE, MAE, RMSE, R² Score |
 | Gradient Descent | Iterative optimization: Start → Calculate Error → Update → Repeat |
+| Assumptions of Linear Regression | Linear relationship, no multicollinearity, homoscedasticity, normal error distribution |
+| Overfitting | Model memorizes training data; poor on test data |
+| Underfitting | Model too simple; poor on both train and test data |
+| Polynomial Degree | Degree 1 = line, Degree 2 = quadratic, Degree 3 = cubic |
+| MSE Formula | `MSE = 1/n Σ(yi - ŷi)²` — penalizes large errors more |
+| MAE Formula | `MAE = 1/n Σ|yi - ŷi|` — average prediction error |
+| RMSE | `RMSE = √MSE` — error in same unit as output |
 | Lasso Regression | L1 regularization; reduces overfitting; performs feature selection |
 | Ridge Regression | L2 regularization; shrinks coefficients; use when features are correlated |
 
 ---
 
-**📓 Day 37 — Classification Algorithms**
+**📓 Day 37 — Classification Algorithms in Machine Learning**
 
 7 classification algorithms covered in depth:
 
@@ -345,9 +331,10 @@ Core concepts covered across 22 handwritten Q&A entries:
 | Logistic Regression | Sigmoid function `ŷ = 1/(1+e^(-z))`; binary classification; outputs probability 0–1 |
 | K-Nearest Neighbors (KNN) | Finds K nearest points; majority vote decides class; Euclidean distance used |
 | Support Vector Machine (SVM) | Finds best hyperplane with maximum margin; uses Support Vectors |
-| Naive Bayes | Based on Bayes Theorem; types: Gaussian, Multinomial, Bernoulli |
-| Decision Tree | Tree structure with Root, Decision, and Leaf nodes; splits using Gini Index / Entropy |
+| Naive Bayes | Based on Bayes Theorem `P(A\|B) = P(B\|A)·P(A)/P(B)`; types: Gaussian, Multinomial, Bernoulli |
+| Decision Tree | Tree structure with Root, Decision, and Leaf nodes; splits using Gini Index / Entropy / Information Gain |
 | Random Forest | Ensemble of multiple Decision Trees; uses majority voting for classification |
+| Comparison | Random Forest > Decision Tree: reduces overfitting, better accuracy, more stable |
 
 ---
 
@@ -357,10 +344,12 @@ Core concepts covered across 22 handwritten Q&A entries:
 
 | Algorithm | Key Highlights |
 |-----------|---------------|
-| K-Means Clustering | Minimizes WCSS; iterative centroid update; Euclidean distance |
+| K-Means Clustering | Minimizes WCSS `J = Σ Σ ||x - μi||²`; iterative centroid update; Euclidean distance |
 | Hierarchical Clustering | Agglomerative (bottom-up) & Divisive (top-down); visualized using Dendrogram |
 | DBSCAN | Density-Based; identifies Core, Border, Noise points using Epsilon (ε) and MinPts |
-| Gaussian Mixture Model (GMM) | Probabilistic/soft clustering using EM Algorithm; better for overlapping clusters |
+| Gaussian Mixture Model (GMM) | Probabilistic/soft clustering using EM Algorithm (E-Step + M-Step); better for overlapping clusters |
+
+Clustering Evaluation Metrics: Silhouette Score, Inertia/WCSS, Davies-Bouldin Index, Calinski-Harabasz Index, ARI, NMI
 
 ---
 
@@ -369,9 +358,12 @@ Core concepts covered across 22 handwritten Q&A entries:
 | Topic | Key Points |
 |-------|-----------|
 | Feature Engineering | Creating, transforming, encoding, and scaling input features for better model performance |
+| Types | Feature Creation, Transformation (log/sqrt/normalization), Encoding (Label/One-Hot), Scaling (Min-Max/Standard), Extraction, Selection, Binning/Discretization |
 | Association Rule Learning | Discovers item relationships; used in market basket analysis, product recommendation |
-| Key Metrics | Support (frequency), Confidence (reliability), Lift (strength) |
+| Key Metrics | Support (frequency), Confidence (reliability), Lift (strength), Leverage, Conviction |
 | Apriori Algorithm | Finds frequent itemsets step by step; generates rules using min support & confidence |
+| ECLAT Algorithm | Uses Transaction ID sets and intersection for faster frequent itemset mining |
+| Use Cases | Market basket, product recommendation, cross-selling, store layout, fraud detection, healthcare |
 
 ---
 
@@ -382,7 +374,11 @@ Hands-on coding practice — the full ML sklearn pipeline written 5 times from s
 ```python
 # Data Collection
 df = pd.read_csv("iris.csv")
+df1 = pd.read_excel("customers.xlsx")
 iris = load_iris(); x = iris.data; y = iris.target
+
+# Data Preparation & Cleaning
+df.head(), df.tail(), df.info(), df.shape, df.describe(), df.isnull().sum()
 
 # Train-Test Split
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
@@ -399,8 +395,12 @@ KMeans(n_clusters=3), DBSCAN(eps=0.5, min_samples=5),
 GaussianMixture(n_components=3), AgglomerativeClustering(n_clusters=2)
 
 # Association Rules
-apriori(), association_rules(), fpgrowth()
+apriori(), association_rules(), fpgrowth(), association_rules()
 ```
+
+Writing the complete pipeline 5 times reinforced muscle memory for the full sklearn workflow.
+
+---
 
 **Tech used:**
 
@@ -426,6 +426,8 @@ apriori(), association_rules(), fpgrowth()
 
 **📓 Day 41 — Regression Assignment**
 
+Hands-on regression practice applying key algorithms to real datasets:
+
 - 🔢 **Linear Regression** — Predicting continuous outcomes with `Y = mX + c`
 - 📐 **Multiple & Polynomial Regression** — Multi-feature and curved-fit models
 - 📉 **Ridge & Lasso Regression** — Regularization to prevent overfitting
@@ -434,6 +436,8 @@ apriori(), association_rules(), fpgrowth()
 ---
 
 **📓 Day 42 — Classification Assignment 1**
+
+Core classification algorithm implementation and evaluation:
 
 - 🏷️ **Logistic Regression** — Binary classification with Sigmoid function
 - 📍 **K-Nearest Neighbors (KNN)** — Distance-based majority voting
@@ -444,9 +448,11 @@ apriori(), association_rules(), fpgrowth()
 
 **📓 Day 43 — Classification Assignment 2**
 
+Advanced tree-based and probabilistic classifiers:
+
 - 🌳 **Decision Tree** — Gini Index / Entropy / Information Gain splits
 - 🌲 **Random Forest** — Ensemble majority voting for better generalization
-- 📬 **Naive Bayes** — Bayes Theorem probabilistic classification
+- 📬 **Naive Bayes** — Bayes Theorem `P(A|B) = P(B|A)·P(A)/P(B)`
 - 🔁 **Cross Validation** — K-Fold CV for reliable performance estimation
 
 ---
@@ -462,23 +468,42 @@ apriori(), association_rules(), fpgrowth()
 
 **📓 Day 45 — Deep Learning Theory (24 Q&A Entries)**
 
+Comprehensive handwritten notes covering the full Deep Learning landscape:
+
 | Topic | Key Points |
 |-------|-----------|
 | What is Deep Learning? | Subset of ML using artificial neural networks with many layers; inspired by the human brain |
+| Neural Network | Computational model of connected neurons processing data in Input → Hidden → Output layers |
+| ML vs Deep Learning | ML: manual feature extraction, small datasets, simple algorithms; DL: automatic extraction, large datasets, neural networks |
 | Forward Propagation | Input data flows layer-by-layer through the network to generate a prediction |
 | Backward Propagation | Calculates error, sends it back through the network, updates weights to improve model |
+| Gradient Descent | Optimization algorithm that minimizes loss by moving in direction of steepest error decrease |
+| Types of Gradient Descent | Batch (full dataset, stable), SGD (one point, noisy), Mini-Batch (small batches, most common) |
 | Activation Functions | Sigmoid, Tanh, ReLU, Leaky ReLU, Softmax — introduce non-linearity into the network |
-| CNN | Convolutional Neural Network — deep learning model for image processing |
-| LSTM | Long Short-Term Memory — special RNN for long-term dependencies |
-| GAN | Generative Adversarial Network — Generator vs Discriminator competing to create realistic data |
-| Transformer | Uses self-attention instead of recurrence; used in BERT, GPT, language models |
+| When to Use Which Activation | ReLU → hidden layers; Sigmoid → binary output; Softmax → multi-class; Tanh → when negatives needed |
+| Loss Function | Measures gap between predicted and actual value; MSE, Cross Entropy Loss; lower = better model |
+| Life Cycle of Deep Learning | Problem Definition → Data Collection → Preprocessing → Model Selection → Training → Evaluation → Deployment → Monitoring |
+| Applications of Deep Learning | Image/speech recognition, NLP, self-driving cars, medical diagnosis, fraud detection, chatbots, recommendation systems |
+| Perceptron | Simplest neural network — single neuron for binary classification |
+| Multi-Layer Perceptron (MLP) | Neural network with multiple hidden layers; used for classification, regression, pattern recognition |
+| Features of Deep Learning | Automatic feature extraction, handles large & unstructured data, high accuracy, requires GPU |
+| FNN | Feedforward Neural Network — data flows only input → output; used for structured tabular data |
+| CNN | Convolutional Neural Network — deep learning model for image processing; image classification, object detection, facial recognition |
+| LSTM | Long Short-Term Memory — special RNN designed to remember long-term dependencies; speech recognition, language translation, time series forecasting |
+| RNN | Recurrent Neural Network — sequential data where previous info influences future outputs; text generation, speech recognition |
+| GAN | Generative Adversarial Network — Generator vs Discriminator competing to create realistic data; image generation, deepfakes, data augmentation |
+| GRU | Gated Recurrent Unit — simplified LSTM with faster training and fewer parameters |
+| Transformer | Deep learning model using self-attention instead of recurrence; used in BERT, GPT, language models, machine translation |
+
+---
 
 **Tech used:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </details>
 
@@ -497,39 +522,50 @@ apriori(), association_rules(), fpgrowth()
 
 **📓 Day 46 — Deep Learning Theory (7 Q&A Entries)**
 
+Handwritten notes covering core deep learning architectures:
+
 | Topic | Key Points |
 |-------|-----------|
-| What is ANN? | Model inspired by the human brain; `z = w₁x₁ + w₂x₂ + ... + wₙxₙ + b`, `a = f(z)` |
-| What is CNN? | Used for image processing; layers: Convolution, Activation (ReLU), Pooling, Fully Connected |
-| What is RNN? | Used for sequential data; maintains memory; `hₜ = f(Wxₜ + Uhₜ₋₁)` |
-| What is LSTM? | Special RNN with Forget Gate, Input Gate, Output Gate; `Cₜ = fₜ * Cₜ₋₁ + iₜ * C̃ₜ` |
-| What is GRU? | Simplified LSTM; Update Gate and Reset Gate; faster training |
-| What is GAN? | Generator creates fake data, Discriminator checks real vs fake |
-| What is VAE? | Generates new data by learning probability distributions |
+| What is ANN? | Model inspired by the human brain; consists of neurons arranged in layers (Input → Hidden → Output); `z = w₁x₁ + w₂x₂ + ... + wₙxₙ + b`, `a = f(z)` |
+| What is CNN? | Used for image processing; extracts features using filters; layers: Convolution, Activation (ReLU), Pooling, Fully Connected; `Output(i,j) = Σ x(i+k, j+l) · w(k,l)` |
+| What is RNN? | Used for sequential data like text or time series; uses previous output as input; maintains memory; `hₜ = f(Wxₜ + Uhₜ₋₁)`, `yₜ = Whₜ` |
+| What is LSTM? | Special RNN that solves the long-term dependency problem using gates: Forget Gate, Input Gate, Output Gate; Cell State: `Cₜ = fₜ * Cₜ₋₁ + iₜ * C̃ₜ`; Output: `hₜ = oₜ * tanh(Cₜ)` |
+| What is GRU? | Simplified version of LSTM; uses Update Gate and Reset Gate; fewer parameters, faster training; `hₜ = (1 - zₜ) * hₜ₋₁ + zₜ * h̃ₜ` |
+| What is GAN? | Has two models — Generator and Discriminator; Generator creates fake data, Discriminator checks real vs fake; both compete until indistinguishable; minimax: `V(D,G) = E[log D(x)] + E[log(1 - D(G(z)))]` |
+| What is VAE? | Used to generate new data by learning probability distributions; Loss: `L = Reconstruction + KL Divergence`; `KL(q(z|x) || p(z))` |
 
 ---
 
 **📓 Day 47 — Deep Learning Code Implementations**
 
+Hands-on implementation of 5 deep learning models on CIFAR-10 dataset:
+
 | Model | Implementation Highlights |
 |-------|--------------------------|
-| 🧠 FNN | `Flatten → Dense(128, relu) → Dense(64, relu) → Dense(10, softmax)`; trained on CIFAR-10 |
-| 🖼️ CNN | `Conv2D(32) → MaxPooling → Conv2D(64) → MaxPooling → Flatten → Dense(10)`; CIFAR-10 |
-| 🔁 RNN + LSTM | Next Word Predictor; `Embedding → LSTM(100) → Dense(vocab_size, softmax)`; Streamlit app |
-| 🎨 GAN | Generator + Discriminator on CIFAR-10; outputs `generated_images.png` |
-| 🔮 VAE | Encoder + Decoder with custom Sampling layer; latent dimension = 32 |
+| 🧠 FNN (Feedforward Neural Network) | `Flatten → Dense(128, relu) → Dense(64, relu) → Dense(10, softmax)`; trained on CIFAR-10; Adam optimizer, sparse categorical crossentropy |
+| 🖼️ CNN (Convolutional Neural Network) | `Conv2D(32) → MaxPooling → Conv2D(64) → MaxPooling → Flatten → Dense(64) → Dense(10)`; trained on CIFAR-10 for image classification |
+| 🔁 RNN + LSTM (Next Word Predictor) | LSTM model trained on text sequences; `Embedding → LSTM(100) → Dense(vocab_size, softmax)`; saves model as `lstm_model.h5`; Streamlit app for interactive next-word prediction |
+| 🎨 GAN (Generative Adversarial Network) | Generator + Discriminator trained on CIFAR-10; Generator: `Dense(256→512→32*32*3, tanh)`; Discriminator: `Conv2D → Dropout → Flatten → Dense(1, sigmoid)`; outputs `generated_images.png` |
+| 🔮 VAE (Variational Autoencoder) | Encoder + Decoder with custom Sampling layer; latent dimension = 32; custom `train_step` with KL divergence loss; outputs `vae_reconstruction.png` and `vae_generated.png` |
 
 ---
 
 **📓 Day 48 — NLP Theory (8 Q&A Entries)**
 
+Handwritten notes covering Natural Language Processing fundamentals:
+
 | Topic | Key Points |
 |-------|-----------|
-| What is NLP? | Field of AI enabling computers to understand, interpret & generate human language |
-| Techniques | Tokenization, Stop Word Removal, Stemming, Lemmatization, POS Tagging |
-| Word2Vec | Converts words to vectors; e.g., King - Man + Woman ≈ Queen |
-| TF-IDF | Measures word importance across documents |
-| Named Entity Recognition (NER) | Identifies entities: persons, organizations, locations |
+| What is NLP? | Field of AI that enables computers to understand, interpret & generate human language; combines linguistics + ML + Deep Learning |
+| Types of NLP | NLU (Natural Language Understanding) — focuses on understanding meaning (e.g., chatbot understanding questions); NLG (Natural Language Generation) — focuses on generating text (e.g., ChatGPT generating answers) |
+| NLP vs NLU vs NLG | NLP is the complete field; NLU extracts meaning & detects intent; NLG produces text & generates content |
+| Challenges in NLP | Ambiguity (same word, different meanings — e.g., "bank"); Context understanding (meaning changes based on sentence); Sarcasm & Sentiment; Language diversity (different languages, dialects); Data limitations (lack of labelled data) |
+| Techniques of NLP | Tokenization (breaking text into words); Stop Word Removal (removing common words); Stemming (reducing words to root); Lemmatization (converting to meaningful base form); POS Tagging (identifying word types — pronoun, verb, adverb) |
+| Named Entity Recognition (NER) | Identifies entities; e.g., "Elon Musk founded Tesla" → Elon Musk = person, Tesla = organisation |
+| Bag of Words (BoW) | Counts word frequency in a document |
+| TF-IDF | Measures word importance; `TF = word count / total words`; `IDF = log(total documents / documents containing word)` |
+| Word2Vec | Converts words into vectors; captures semantic meaning; e.g., King - Man + Woman ≈ Queen |
+| N-gram | Groups of N words; Bigram example: ["Deep Learning", "Learning is", "is fun"] |
 
 ---
 
@@ -537,15 +573,134 @@ apriori(), association_rules(), fpgrowth()
 
 | Project | Highlights |
 |---------|-----------|
-| 🎬 Movie Recommendation System | Content-based filtering; TMDB 5000 dataset; `CountVectorizer` + Cosine Similarity; Streamlit app with 5 filter modes |
-| 📚 Book Recommendation System | Content-based filtering; `CountVectorizer` + Cosine Similarity; Streamlit app with top-9 recommendations |
+| 🎬 Movie Recommendation System | Content-based filtering using TMDB 5000 dataset; feature engineering combining overview, genres, keywords, cast & crew into tags; `CountVectorizer(max_features=5000)` + Cosine Similarity; Streamlit app with 5 filter modes: Movie-Based, Genre, Actor, Director, Keyword |
+| 📚 Book Recommendation System | Content-based filtering on genre & author features; `CountVectorizer` + Cosine Similarity; Streamlit app with dropdown book selector and top-9 recommendations |
+
+---
 
 **Tech used:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><b>👁️ Week 11 & 12 — Smart Attendance System (Face Recognition)</b></summary>
+
+<br/>
+
+> *"Why take attendance manually when a camera and a model can do it in milliseconds?"*
+
+**What I built:**
+
+A fully functional **AI-powered Smart Attendance System** using real-time face recognition — end-to-end from student registration to automated attendance logging, deployed as a **Streamlit web app**.
+
+---
+
+**🏗️ System Architecture**
+
+```
+app.py (Streamlit UI)
+│
+├── 📸 Student Registration        → capture_faces.py
+│   └── Captures 50 webcam images per student
+│
+├── 🧠 Model Training              → train_model.py
+│   └── Encodes all faces → saves face_model.pkl
+│
+├── 👁️ Face Recognition            → recognize_face.py
+│   └── Live webcam → match → log to attendance.csv
+│
+└── 📋 View Attendance             → reads attendance/attendance.csv
+```
+
+---
+
+**📓 Module Breakdown**
+
+| Module | File | What It Does |
+|--------|------|-------------|
+| 🖥️ Streamlit UI | `app.py` | Full web interface — register students, trigger training, start attendance, view records |
+| 📸 Face Capture | `backend/capture_faces.py` | Opens webcam, captures **50 face images** per student, saves to `dataset/student_images/{name}_{usn}/` with live progress bar |
+| 🧠 Model Training | `backend/train_model.py` | Loads all student images, generates **128-D face encodings** using `face_recognition`, saves to `models/face_model.pkl` |
+| 👁️ Recognition | `backend/recognize_face.py` | Live webcam stream → detects faces → computes Euclidean distance → marks attendance in `attendance.csv` with timestamp |
+
+---
+
+**🔬 Technical Deep-Dive**
+
+**Face Encoding & Matching:**
+```python
+# Training: generate 128-D face embeddings
+face_encodings = face_recognition.face_encodings(image, face_locations)
+
+# Recognition: find closest match
+distances = face_recognition.face_distance(known_encodings, encoding)
+best_match_index = np.argmin(distances)
+
+if distances[best_match_index] < 0.45:   # Threshold for identity confirmation
+    name = known_names[best_match_index]
+```
+
+**Attendance Logging (no duplicates per session):**
+```python
+marked = set()   # Tracks who's already been marked
+if name not in marked:
+    now = datetime.now().strftime("%H:%M:%S")
+    writer.writerow([name, now])   # Write to attendance.csv
+    marked.add(name)
+```
+
+---
+
+**✨ Key Features**
+
+- 👤 **Multi-student registration** — any number of students; each gets their own image folder
+- 📊 **Live progress bar** — shows real-time capture progress (0 → 50 images)
+- 🔒 **Duplicate-safe** — each student marked only once per session using a `set()`
+- 🎯 **0.45 distance threshold** — tuned for high confidence identity matching
+- 📋 **Attendance viewer** — one-click CSV display inside Streamlit
+- 🔄 **Retrain anytime** — add new students and retrain without losing existing data
+- 🟩 **Bounding box + name label** — drawn live on webcam feed during recognition
+
+---
+
+**📁 Project Structure**
+
+```bash
+WEEK_11_&_12/
+│
+├── app.py                          ← Streamlit main app
+├── requirements.txt
+├── backend/
+│   ├── capture_faces.py            ← Webcam face capture (50 images/student)
+│   ├── train_model.py              ← Face encoding + model saving
+│   └── recognize_face.py           ← Live recognition + attendance logging
+├── dataset/
+│   └── student_images/
+│       └── {Name}_{USN}/           ← Per-student image folders
+├── models/
+│   └── face_model.pkl              ← Trained face encodings
+└── attendance/
+    └── attendance.csv              ← Auto-generated attendance log
+```
+
+---
+
+**Tech used:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![face--recognition](https://img.shields.io/badge/face--recognition-00B4D8?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </details>
@@ -553,79 +708,189 @@ apriori(), association_rules(), fpgrowth()
 ---
 
 <details>
-<summary><b>📦 Week 11 — <em>Coming Soon</em></b></summary>
+<summary><b>🌐 Week 13 — Generative AI, RAG Pipelines & AWS Cloud Deployment</b></summary>
 
 <br/>
 
-> *"Week 11 content will be updated here upon completion."*
+> *"The final frontier — where AI meets the cloud, and chatbots become intelligent agents."*
 
-**Status:** 🔄 In Progress
+**What I built:**
 
-**Expected Topics:**
-- 🚧 To be updated...
+The capstone week of the internship — a series of **production-grade AI applications** using **LangChain**, **OpenAI**, **AWS Bedrock**, **FAISS vector stores**, **FastAPI**, and **AWS Lambda** — progressing from a multi-document chatbot to a serverless AI ecommerce agent deployed on the cloud.
+
+---
+
+**Daily Breakdown:**
+
+---
+
+**📓 Day 61 — Multi-Document RAG Chatbot — `multi_doc_rag_api.py`**
+
+> *"Upload any document. Ask anything. Get answers grounded in your own data."*
+
+Built a full **Retrieval-Augmented Generation (RAG)** chatbot using **LangChain + OpenAI + FAISS**:
+
+| Component | Implementation |
+|-----------|---------------|
+| 📄 Document Loaders | `PyPDFLoader` for PDFs, `TextLoader` for `.txt` — supports multiple files simultaneously |
+| ✂️ Text Splitting | `RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)` — smart chunking with context overlap |
+| 🧮 Embeddings | `OpenAIEmbeddings` — converts text chunks into dense vector representations |
+| 🗄️ Vector Store | `FAISS` — fast in-memory similarity search over all document chunks |
+| 🤖 LLM | `ChatOpenAI(model="gpt-4o-mini", temperature=0)` — grounded, deterministic answers |
+| 🔗 QA Chain | `ConversationalRetrievalChain` — maintains full multi-turn chat history |
+| 🖥️ UI | Streamlit — sidebar for file upload & API key, chat interface with message history, clear button |
+
+**RAG Pipeline Flow:**
+```
+Upload PDF/TXT → Load → Split into chunks → Embed → Store in FAISS
+       ↓
+User Question → Embed query → FAISS similarity search → Retrieve top-k chunks
+       ↓
+[Context + Question] → GPT-4o-mini → Grounded Answer → Display in chat
+```
+
+---
+
+**📓 Day 62 — LLaMA 3 Chatbot via AWS Bedrock — `app.py`**
+
+> *"Running a billion-parameter model without owning a single GPU."*
+
+Built a **LLaMA 3 chatbot** powered by **AWS Bedrock** — no local GPU required:
+
+| Component | Implementation |
+|-----------|---------------|
+| ☁️ AWS Integration | `boto3.Session` with IAM credentials → `bedrock-runtime` client |
+| 🤖 Model | `meta.llama3-8b-instruct-v1:0` — Meta's LLaMA 3 8B via AWS Bedrock |
+| 💬 Conversation | Full multi-turn chat history maintained in `st.session_state` |
+| ⚙️ Parameters | `temperature=0.5`, `top_p=0.9`, `max_gen_len=100` — cost-optimized generation |
+| 🖥️ UI | Streamlit — AWS credentials input, region selector, real-time chat display |
+
+**Bedrock Invocation:**
+```python
+response = bedrock.invoke_model(
+    modelId="meta.llama3-8b-instruct-v1:0",
+    body=json.dumps({"prompt": prompt, "temperature": 0.5, "max_gen_len": 100}),
+    contentType="application/json",
+    accept="application/json"
+)
+```
+
+---
+
+**📓 Day 63 — AI Medical Assistant API — `medical_assistant.py`**
+
+> *"Upload your medical report. Ask your health questions. Get AI-powered answers."*
+
+Built a **FastAPI-powered Medical RAG API** — users upload medical PDFs and ask health questions:
+
+| Component | Implementation |
+|-----------|---------------|
+| 🔌 API Framework | `FastAPI` with `CORSMiddleware` — production-ready REST API |
+| 📄 PDF Processing | `PyPDF2.PdfReader` — extracts text from uploaded medical PDFs |
+| 🧮 Embeddings | `BedrockEmbeddings(model_id="amazon.titan-embed-text-v1")` — AWS Titan embeddings |
+| 🗄️ Vector Store | `FAISS` with per-user metadata filtering — isolates each patient's data |
+| 🤖 LLM | `meta.llama3-8b-instruct-v1:0` via AWS Bedrock — medical Q&A generation |
+| 🔒 Multi-user | Each document tagged with `user_id` — FAISS filters by user on retrieval |
+
+**API Endpoints:**
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/upload_pdf` | POST | Upload medical PDF → extract text → chunk → embed → store in FAISS |
+| `/ask` | POST | Send question → retrieve relevant chunks → LLaMA answers from context |
+| `/` | GET | Health check — confirms API is running |
+
+**Medical RAG Flow:**
+```
+POST /upload_pdf → Extract PDF text → Split(chunk_size=500) → Titan Embeddings → FAISS(user_id)
+POST /ask       → Retrieve top-3 chunks(user_id) → LLaMA 3 Prompt → Medical Answer
+```
+
+---
+
+**📓 Day 65 — Serverless AI Ecommerce Agent on AWS Lambda — `backend/`**
+
+> *"A fully serverless AI agent that handles orders, refunds, and product queries — deployed on the cloud."*
+
+Built and deployed a **serverless AI Ecommerce Agent** using **AWS Lambda + AWS Bedrock + FAISS + AWS SAM**:
+
+**System Architecture:**
+
+```
+API Gateway (POST /chat)
+      ↓
+AWS Lambda (handler.py)
+      ↓
+┌─────────────────────────────────────────┐
+│  chatbot.py                             │
+│  ├── intents.py  → detect_intent()      │
+│  ├── rag.py      → retrieve_context()   │
+│  └── utils.py    → call_bedrock()       │
+└─────────────────────────────────────────┘
+      ↓
+LLaMA 3 (AWS Bedrock) → Ecommerce Response
+```
+
+**Module Breakdown:**
+
+| File | Role | Key Logic |
+|------|------|-----------|
+| `handler.py` | Lambda entry point | Parses API Gateway event → calls `handle_chat()` → returns JSON response |
+| `chatbot.py` | Orchestrator | Detects intent + retrieves context + builds prompt + calls Bedrock |
+| `intents.py` | Intent classifier | Keyword-based routing: `order` → order_status, `refund` → refund_request, `product` → product_query |
+| `rag.py` | Context retrieval | FAISS similarity search from `/tmp/faiss_store` — top-3 relevant chunks |
+| `utils.py` | Bedrock wrapper | Invokes `meta.llama3-8b-instruct-v1:0` — returns generated text |
+| `template.yaml` | AWS SAM config | Defines Lambda function, runtime (Python 3.10), memory (512MB), timeout (30s), Bedrock IAM policy, API Gateway event |
+
+**AWS SAM Deployment Config (`template.yaml`):**
+```yaml
+Resources:
+  EcommerceAI:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: backend/handler.lambda_handler
+      Runtime: python3.10
+      Timeout: 30
+      MemorySize: 512
+      Policies:
+        - AmazonBedrockFullAccess
+      Events:
+        ApiEvent:
+          Type: Api
+          Properties:
+            Path: /chat
+            Method: post
+```
+
+**Ecommerce Intent + RAG Prompt:**
+```python
+intent = detect_intent(message)      # "order_status" / "refund_request" / "product_query"
+context = retrieve_context(message)  # FAISS top-3 chunks
+
+prompt = f"""
+You are an AI Ecommerce Assistant.
+Intent: {intent}
+Context: {context}
+User Question: {message}
+Give helpful response:
+"""
+```
+
+---
 
 **Tech used:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-> 📌 *This section will be updated with detailed notes, project highlights, and tech stack once Week 11 is complete and uploaded.*
-
-</details>
-
----
-
-<details>
-<summary><b>📦 Week 12 — <em>Coming Soon</em></b></summary>
-
-<br/>
-
-> *"Week 12 content will be updated here upon completion."*
-
-**Status:** 🔄 In Progress
-
-**Expected Topics:**
-- 🚧 To be updated...
-
-**Tech used:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-> 📌 *This section will be updated with detailed notes, project highlights, and tech stack once Week 12 is complete and uploaded.*
+![AWS](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0066CC?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![boto3](https://img.shields.io/badge/boto3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 </details>
-
----
-
-<details>
-<summary><b>📦 Week 13 — Final Week & Internship Wrap-Up — <em>Coming Soon</em></b></summary>
-
-<br/>
-
-> *"Week 13 content will be updated here upon completion."*
-
-**Status:** 🔄 In Progress
-
-**Expected Deliverables:**
-- 🏁 Final project / capstone submission
-- 🚧 To be updated...
-
-**Tech used:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-> 📌 *This section will be updated with the final week's work, key takeaways, and any closing deliverables.*
-
-</details>
-
----
-
-## 🛠️ Full Tech Stack
 
 <div align="center">
 
@@ -636,11 +901,12 @@ apriori(), association_rules(), fpgrowth()
 | 📊 Visualization | Matplotlib, Seaborn, Plotly |
 | 🤖 Machine Learning | Scikit-learn (Regression, Classification, Clustering, PCA) |
 | ⚙️ Optimization | GridSearchCV, Cross-Validation |
-| 🧠 Deep Learning | TensorFlow, Keras (ANN, CNN, RNN, LSTM, GAN, VAE) |
-| 💬 NLP | NLTK, CountVectorizer, TF-IDF, Word2Vec |
 | 🗄️ Database | MySQL — DDL, DML, Joins, Aggregations |
 | 📋 Dashboards | Dash, Power BI |
-| 🌐 Deployment | Streamlit |
+| 🧠 Deep Learning | TensorFlow, Keras — FNN, CNN, RNN, LSTM, GAN, VAE |
+| 👁️ Computer Vision | OpenCV, face_recognition — Face Detection & Recognition |
+| 🌐 GenAI & RAG | LangChain, OpenAI, FAISS, AWS Bedrock (LLaMA 3, Titan) |
+| ☁️ Cloud & APIs | AWS Lambda, AWS SAM, FastAPI, boto3 |
 | 🛠️ Environment | Google Colab, Jupyter Notebook, VS Code |
 | 🔧 Version Control | Git & GitHub |
 
@@ -653,19 +919,35 @@ apriori(), association_rules(), fpgrowth()
 ```bash
 📦 Internship-Tasks/
 │
-├── 🗂️ WEEK_01/     ── Python & Data Science Foundations
-├── 🗂️ WEEK_02/     ── Data Handling & Preprocessing
-├── 🗂️ WEEK_03/     ── EDA & Visualization
-├── 🗂️ WEEK_04/     ── Supervised Machine Learning
-├── 🗂️ WEEK_05/     ── Real-World Projects & SQL
-├── 🗂️ WEEK_06/     ── Advanced ML & Optimization
-├── 🗂️ WEEK_07/     ── 🏆 Capstone — Pizza Sales Dashboard
-├── 🗂️ WEEK_08/     ── 🧠 ML Theory & Hands-On Coding
-├── 🗂️ WEEK_09/     ── 🔬 Deep Learning Theory & Applied ML Projects
-├── 🗂️ WEEK_10/     ── 🚀 Deep Learning Implementations & Recommendation Systems
-├── 🗂️ WEEK_11/     ── 📦 Coming Soon
-├── 🗂️ WEEK_12/     ── 📦 Coming Soon
-├── 🗂️ WEEK_13/     ── 📦 Final Week — Coming Soon
+├── 🗂️ WEEK_01/          ── Python & Data Science Foundations
+├── 🗂️ WEEK_02/          ── Data Handling & Preprocessing
+├── 🗂️ WEEK_03/          ── EDA & Visualization
+├── 🗂️ WEEK_04/          ── Supervised Machine Learning
+├── 🗂️ WEEK_05/          ── Real-World Projects & SQL
+├── 🗂️ WEEK_06/          ── Advanced ML & Optimization
+├── 🗂️ WEEK_07/          ── 🏆 Capstone — Pizza Sales Dashboard
+├── 🗂️ WEEK_08/          ── 🧠 ML Theory & Hands-On Coding
+├── 🗂️ WEEK_09/          ── 🔬 Deep Learning Theory & Applied ML Projects
+├── 🗂️ WEEK_10/          ── 🚀 Deep Learning Implementations & Recommendation Systems
+├── 🗂️ WEEK_11_&_12/     ── 👁️ Smart Attendance System (Face Recognition)
+│   ├── app.py
+│   ├── backend/
+│   │   ├── capture_faces.py
+│   │   ├── train_model.py
+│   │   └── recognize_face.py
+│   └── requirements.txt
+├── 🗂️ WEEK_13/          ── 🌐 GenAI, RAG Pipelines & AWS Cloud Deployment
+│   ├── Day 1/ multi_doc_rag_api.py   ← Multi-Doc RAG Chatbot (LangChain + OpenAI + FAISS)
+│   ├── Day 2/ app.py                 ← LLaMA 3 Chatbot (AWS Bedrock + Streamlit)
+│   ├── Day 3/ medical_assistant.py   ← Medical RAG API (FastAPI + Bedrock + FAISS)
+│   └── Day 5/                        ← Serverless Ecommerce AI Agent (AWS Lambda + SAM)
+│       ├── backend/
+│       │   ├── chatbot.py
+│       │   ├── handler.py
+│       │   ├── intents.py
+│       │   ├── rag.py
+│       │   └── utils.py
+│       └── infrastructure/template.yaml
 └── 📄 README.md
 ```
 
@@ -685,13 +967,12 @@ apriori(), association_rules(), fpgrowth()
 | Week 08 | ML Theory & Hands-On Coding | ✅ Done |
 | Week 09 | Deep Learning Theory & Applied ML Projects | ✅ Done |
 | Week 10 | Deep Learning Implementations & Recommendation Systems | ✅ Done |
-| Week 11 | Coming Soon | 🔄 In Progress |
-| Week 12 | Coming Soon | 🔄 In Progress |
-| Week 13 | Final Week — Coming Soon | 🔄 In Progress |
+| Week 11 & 12 | Smart Attendance System (Face Recognition) | ✅ Done |
+| Week 13 | GenAI, RAG Pipelines & AWS Cloud Deployment | ✅ Done |
 
 <div align="center">
 
-**🎯 10 / 13 Weeks Completed — 77% 🔥**
+**🎯 13 / 13 Weeks Completed — 100% 🔥**
 
 </div>
 
@@ -703,9 +984,9 @@ apriori(), association_rules(), fpgrowth()
 
 If you're a fellow learner, a recruiter, or just someone who loves data — let's talk!
 
-[![GitHub](https://img.shields.io/badge/GitHub-AnanyaMangaj-181717?style=for-the-badge&logo=github)](https://github.com/AnanyaMangaj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananya-mangaj/)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](https://mangajananya@gmail.com/mail/)
+[![GitHub](https://img.shields.io/badge/GitHub-KeertirajKamble-181717?style=for-the-badge&logo=github)](https://github.com/Keertiraj2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keertiraj-kamble/)
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/)
 
 </div>
 
