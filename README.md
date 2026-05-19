@@ -29,7 +29,7 @@
 
 ## 🙋‍♀️ About Me
 
-Hi, I'm **Keertiraj Kamble**, a Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
+Hi, I'm **Ananya Mangaj**, a Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
 
 This repository contains all the tasks and mini-projects I completed during my **13-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
 
@@ -703,9 +703,9 @@ apriori(), association_rules(), fpgrowth()
 
 If you're a fellow learner, a recruiter, or just someone who loves data — let's talk!
 
-[![GitHub](https://img.shields.io/badge/GitHub-KeertirajKamble-181717?style=for-the-badge&logo=github)](https://github.com/Keertiraj2004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keertiraj-kamble/)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/)
+[![GitHub](https://img.shields.io/badge/GitHub-AnanyaMangaj-181717?style=for-the-badge&logo=github)](https://github.com/AnanyaMangaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananya-mangaj/)
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](https://mangajananya@gmail.com/mail/)
 
 </div>
 
