@@ -28,7 +28,7 @@
 
 ## 🙋‍♀️ About Me
 
-Hi, I'm **Keertiraj Kamble**, a Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
+Hi, I'm **Ananya Mangaj**, a Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.
 
 This repository contains all the tasks and mini-projects I completed during my **13-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
 
