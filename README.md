@@ -1,6 +1,6 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  🧠 Turning Raw Data into Real Decisions - 13 Weeks of Work      ║
+║  🧠 Turnong Raw Data into Real Decisions - 13 Weeks of Work      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
