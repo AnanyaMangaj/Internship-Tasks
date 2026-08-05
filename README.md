@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;SQL+%7C+Python+%7C+Power+BI;EDA+%7C+Visualization+%7C+Dashboards;Deep+Learning+%7C+NLP+%7C+GenAI;RAG+%7C+AWS+Bedrock+%7C+Face+Recognition;From+Raw+Data+to+Real+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>
+<br/>  
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
