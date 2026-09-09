@@ -84,7 +84,7 @@ graph LR
 - 🐍 Brushed up on core **Python** concepts essential for DS workflows
 - 🧭 Understood the **end-to-end lifecycle** of a Data Science project
 
-**Tech used:**
+**Tech used:** 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)
