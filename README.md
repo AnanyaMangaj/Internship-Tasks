@@ -134,7 +134,7 @@ graph LR
 
 </details>
 
----
+---  
 
 <details>
 <summary><b>🟠 Week 05 — Real-World Projects & SQL Foundations</b></summary>
