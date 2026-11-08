@@ -27,7 +27,7 @@
 <img align="right" alt="Data Science GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
        
 ## 🙋‍♀️ About Me        
-
+       
 Hi, I'm **Ananya Mangaj**, a Data Science student from **Visvesvaraya Technological University (VTU), Karnataka**.   
 
 This repository contains all the tasks and mini-projects I completed during my **13-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
