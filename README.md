@@ -35,7 +35,7 @@ This repository contains all the tasks and mini-projects I completed during my *
 Each week covers a new concept — from Python basics and data cleaning to machine learning, SQL, deep learning, and finally Generative AI with AWS Bedrock, RAG pipelines, and real-world AI deployment.
 
 <br clear="right"/>
-
+     
 --- 
 
 ## 🗺️ The 13-Week Learning Map      
