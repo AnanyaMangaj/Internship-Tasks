@@ -33,7 +33,7 @@ Hi, I'm **Ananya Mangaj**, a Data Science student from **Visvesvaraya Technologi
 This repository contains all the tasks and mini-projects I completed during my **13-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
 
 Each week covers a new concept — from Python basics and data cleaning to machine learning, SQL, deep learning, and finally Generative AI with AWS Bedrock, RAG pipelines, and real-world AI deployment.
-
+   
 <br clear="right"/>
      
 ---       
